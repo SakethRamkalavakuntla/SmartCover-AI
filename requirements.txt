@@ -1,0 +1,7 @@
+gradio
+requests
+beautifulsoup4
+pandas
+chromadb
+langchain-groq
+python-dotenv

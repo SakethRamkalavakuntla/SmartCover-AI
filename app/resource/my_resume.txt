@@ -1,0 +1,67 @@
+Saketh Ram Kalavakuntla  
++1 317 969 1121 | sakethramkalavakuntla@gmail.com | United States  
+
+EDUCATION  
+Purdue University, Indiana, US — Master of Science in Computational Data Science (Dean’s Scholarship)  
+Dec 2024  
+Coursework: Bayesian Statistics, Categorical Data Analysis, Statistical Machine Learning, Statistical Quality Control  
+
+Andhra University, India — Bachelor of Technology in Computer Science (Data Analytics)  
+Jun 2022  
+
+EXPERIENCE  
+Healthcare Research Assistant, Purdue University, Indiana, US  
+May 2023 – Dec 2024  
+- Developed biostatistical and computational genomics methods to analyze large-scale biomedical data, uncovering biological mechanisms related to diabetes and cardiometabolic diseases.  
+- Focused on identifying genetic heterogeneity in underrepresented populations to enhance inclusivity in precision medicine.  
+
+Data Scientist, G Technologies Pty Ltd  
+Jan 2024 – Dec 2024  
+- Led development of an AI-based system for optimizing Electronic Health Records (EHR), improving analytics and decision-making, reducing operational costs by 20%.  
+- Used MySQL and DBeaver for managing patient records, automating ETL pipelines, and reducing data retrieval time by 40%.  
+- Built ML models in Python achieving 95% diagnostic accuracy in medical imaging.  
+- Automated data cleaning and integrated it with ETL, improving reliability of EHR systems and boosting patient outcomes by 15%.  
+
+Data Analyst, Exposys Data Labs, Chennai, India  
+Jun 2021 – Nov 2022  
+- Developed a machine learning model for crop disease diagnosis and fertilizer recommendation, improving agricultural yield model accuracy by up to 87%.  
+- Created a FAST API-based web app for fertilizer suggestions with potential e-commerce extensions.  
+
+TECHNICAL SKILLS  
+Technologies: Machine Learning, Data Science, Cloud, NLP, Deep Learning, Data Mining, GCP, MLOps, Statistical Modeling, ETL, SaaS, Agile, A/B Testing, Agentic AI  
+Programming: Python, R, C++, SQL, CUDA, SAS, JavaScript, HTML  
+Databases: MySQL, MongoDB, Cassandra, PostgreSQL, Neo4j, Google BigQuery  
+Tools: Jupyter, Keras, PyTorch, TensorFlow, NumPy, Pandas, Hugging Face, MLflow, Docker, Kubernetes, Git, Tableau, Power BI, LangChain, Spark, Hadoop, Flask, Databricks, Kafka  
+ML Algorithms: SVM, XGBoost, KNN, Random Forest, Regression, ANN, BERT, CNN, RNN, LSTM, GAN, RAG, LLM, Clustering, Time Series, Causal ML, Mixed Marketing Modeling  
+
+PROJECTS  
+Metaphor Detection using DistilBERT  
+- Built a state-of-the-art NLP classifier for detecting metaphors with NLU loss of 0.045.  
+
+Customer Transaction Prediction  
+- Combined Gaussian Mixture and Naive Bayes with Bayesian Optimization and A/B testing to improve forecasting and campaign targeting.  
+
+Crop Row & Leaf Segmentation  
+- Built U-Net models for accurate segmentation (85% for crop rows), aiding yield prediction and smart planting.  
+
+Walmart Sales Forecasting  
+- Built Auto-ARIMA and XGBoost models (MAPE 8.2%) and visualized forecasts with Tableau and Power BI.  
+
+Marketing Campaign ROI Optimization  
+- Developed an uplift modeling framework with Causal ML to segment users and visualize ROI metrics.  
+
+Plant Disease Detection using CNN  
+- Applied data mining and CNN models for plant disease recognition, deployed via Streamlit as an interactive app.  
+
+Cover Letter Generator with Portfolio Matching using Groq & ChromaDB   
+- Built a Gradio-based app that generates personalized cover letters by matching a resume with job descriptions and relevant portfolio projects using LLMs and ChromaDB for semantic search.  
+
+CERTIFICATIONS  
+- Python for Data Science – DataCamp  
+- MATLAB Onramp – MathWorks  
+- Advanced Computer Vision with TensorFlow – Coursera  
+- Deep Learning – GUVI  
+- IBM Python for Data Science, AI & Development  
+- Microsoft Azure AI Fundamentals  
+- Career Essentials in Generative AI – Microsoft & LinkedIn  
+- Atlassian Agile Project Management – Coursera  
