@@ -1,4 +1,3 @@
-##This is the gradio UI for the model which i did not use
 from flask import Flask, render_template, request, jsonify
 from app.scrape_job_description import scrape_job_description
 from app.chains import Chain
