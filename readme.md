@@ -53,28 +53,28 @@ Below is a visual representation of the process:
   <img src="images/flowchart.png" alt="SmartCover Workflow Flowchart" width="300"/>
 </p>
 
-```
+---
 ## 📁 Project Structure
 
 ```
 smartcover/
 ├── app/
-│   ├── chains.py                    # LangChain prompts & Groq logic
-│   ├── portfolio.py                 # Portfolio link matching using ChromaDB
-│   ├── scrape_job_description.py    # Job scraping with BeautifulSoup
+│   ├── chains.py                  # LangChain prompts & Groq logic
+│   ├── portfolio.py               # Portfolio link matching using ChromaDB
+│   ├── scrape_job_description.py  # Job scraping with BeautifulSoup
 │   ├── templates/
-│   │   └── index.html               # Flask frontend (Bootstrap UI)
+│   │   └── index.html             # Flask frontend (Bootstrap UI)
 │   └── resource/
-│       ├── my_resume.txt            # Your static resume
-│       └── my_portfolio.csv         # Your portfolio links mapped to tech stack
-├── main1.py                         # Flask app entry point
+│       ├── my_resume.txt          # Your static resume
+│       └── my_portfolio.csv       # Your portfolio links mapped to tech stack
+├── main1.py                       # Flask app entry point
 ├── images/
-│   ├── index.png                    # UI screenshot
-│   └── result.pdf                   # Generated result (PDF version)
-├── requirements.txt                 # Python dependencies
-├── .gitignore                       # Ignore venv, .env, vectorstore, etc.
-└── README.md                        # Project documentation
-
+│   ├── index.png                  # UI screenshot
+│   └── result.pdf                 # Generated result (PDF version)
+├── requirements.txt               # Python dependencies
+├── .gitignore                     # Ignore venv, .env, vectorstore, etc.
+└── README.md                      # Project documentation
+```
 
 ---
 
