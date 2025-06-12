@@ -1,3 +1,6 @@
+'''I also developed a fully functional Gradio-based UI for the model to enable rapid prototyping and easy interaction. 
+While this version worked as expected, I ultimately chose to proceed with main1.py, which integrates the model into 
+a more structured Flask application with a custom HTML/CSS frontend for better flexibility, styling, and deployment control.'''
 import gradio as gr
 from app.scrape_job_description import scrape_job_description
 from app.chains import Chain
